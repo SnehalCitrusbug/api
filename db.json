@@ -11,7 +11,8 @@
     {
       "id": 3,
       "title": "Post 3"
-    },{
+    },
+    {
       "id": 4,
       "title": "Post 4"
     },
@@ -22,7 +23,8 @@
     {
       "id": 6,
       "title": "Post 6"
-    },{
+    },
+    {
       "id": 7,
       "title": "Post 7"
     },
@@ -33,7 +35,8 @@
     {
       "id": 9,
       "title": "Post 9"
-    },{
+    },
+    {
       "id": 10,
       "title": "Post 10"
     },
@@ -45,20 +48,5 @@
       "id": 12,
       "title": "Post 12"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
